@@ -1,3 +1,4 @@
+<style>
 img {
   display: block;
   margin-left: auto;
@@ -27,3 +28,4 @@ body {
 }
 ::-webkit-scrollbar {
   display: none;
+</style>
